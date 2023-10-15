@@ -17,3 +17,8 @@ Parts:
   
 * Optional: LED strip (pins for GND/LED/VCC)
 
+Middle:
+![alt text](http://url/to/img.png)
+
+Top:
+![alt text](http://url/to/img.png)
