@@ -18,7 +18,7 @@ Parts:
 * Optional: LED strip (pins for GND/LED/VCC)
 
 Middle:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/gzowski/Proteus67/blob/main/mid.png?raw=true)
 
 Top:
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/gzowski/Proteus67/blob/main/top.png?raw=true)
