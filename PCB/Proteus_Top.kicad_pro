@@ -179,7 +179,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Protius_Top.kicad_pro",
+    "filename": "Proteus_Top.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -215,7 +215,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Proteus_Top.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
