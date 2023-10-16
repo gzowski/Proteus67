@@ -19,6 +19,3 @@ Parts:
 
 Middle:
 ![alt text](https://github.com/gzowski/Proteus67/blob/main/mid.png?raw=true)
-
-Top:
-![alt text](https://github.com/gzowski/Proteus67/blob/main/top.png?raw=true)
