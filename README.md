@@ -1,21 +1,27 @@
 # Proteus67 - Ortholinear mechanical keyboard
 
-Parts:
+Case and PCB:
+Pricing based on JLCPCB 5x production run:
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
-| PCB Top Plate | 1 | Top plate to mount MX switches onto | 15.00 |
-| PCB Middle Plate | 1 | PCB with all solder points | 15.00 |
-| PCB Base Plate | 1 | Bottom of case, covers underside | 15.00 |
+| PCB Top Plate | 1 | Top plate to mount MX switches onto | £15.00 |
+| PCB Middle Plate | 1 | PCB with all solder points | £15.00 |
+| PCB Base Plate | 1 | Bottom of case, covers underside | £15.00 |
   
 Components:
-* Diodes (Through-hole 1N4148 or SMD 1N4148W) x 67 (£4.00)
-* Microcontroller (24 IO pins Elite-C or similar RP2040 controller) x 1 (£9.00-£15.00)
-* MX Switches x 66 (£15-£50, depending on switches)
-* EC11 Rotary Encoder x 1 (£2.00)
-* Reset switch (MJTP1117) x 1 (£0.50)
-* Keycaps (64 x 1u, 2 x 2u)
-* Stabalizers pack (2x 2u plate mounted required) x 1 (£5-£20)
+Pricing based on UK sellers:
+
+| Part | Quantity     | Description                | Cost |
+| :-------- | :------- | :------------------------- |:-|
+| Diodes| 67  | Through-hole 1N4148 or SMD 1N4148W | £4.00 |
+| Microcontroller | 1 | 24 IO Pins required, Elite-C/Elite-Pi or similar | £9.00-£15.00 |
+| MX Switches | 66 | Cherry MX compatible switches | £- |
+| EC11 | 1 | Rotary Encoder for centre | £2.00 |
+| MJTP1117 | 1 | Angled reset switch | £0.50 |
+| Keycaps | 66 | 64x1u switches and 2x2u switches | £- |
+| Stabalizers | 2 | 2u plate mounted | £5-£20 | 
+
 * Optional: LED strip 60/1M (pins for GND/LED/VCC) x 1 (£5.00)
 
 Alternative parts:
