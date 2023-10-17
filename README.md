@@ -1,7 +1,12 @@
 # Proteus67 - Ortholinear mechanical keyboard
 
-Case and PCB:
-Pricing based on JLCPCB 5x production run:
+* 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58.
+* 33 keys per side and rotary encoder in the middle.
+* Additional column positioned each side down the centre.
+* Single PCB and microcontroller design while retaining the feel of a split board.
+* 133mm finger spacing while hands are at home positions (F/J keys) 
+
+Case / PCB: (Pricing based on JLCPCB 5x production run, pre-postage)
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
@@ -9,8 +14,7 @@ Pricing based on JLCPCB 5x production run:
 | PCB Middle Plate | 1 | PCB with all solder points | £15.00 |
 | PCB Base Plate | 1 | Bottom of case, covers underside | £15.00 |
   
-Components:
-Pricing based on UK sellers:
+Components: (Pricing based on UK sellers)
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
@@ -22,14 +26,11 @@ Pricing based on UK sellers:
 | Keycaps | 66 | 64x1u switches and 2x2u switches | £- |
 | Stabalizers | 2 | 2u plate mounted | £5-£20 | 
 
-* Optional: LED strip 60/1M (pins for GND/LED/VCC) x 1 (£5.00)
-
-Alternative parts:
-* Acrylic laser cut top plate x 1 (£20.00)
-* Acrylic laser cut base plate x 1 (£20.00)
-
-Component and anternative parts estimates based on UK pricing of components.
-PCB Cost based on pre-postage production costs through JLCPCB.
+Optional Parts:
+| Part | Quantity     | Description                | Cost |
+| :-------- | :------- | :------------------------- |:-|
+| LED Strip | 1 | WS2812 Compatible up to 30cm | £5.00 |
+| Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
 
 Middle:
 ![alt text](https://github.com/gzowski/Proteus67/blob/main/Images/keyboard3d.png?raw=true)
