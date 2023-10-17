@@ -29,7 +29,7 @@ Components: (Pricing based on UK sellers)
 Optional Parts:
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
-| LED Strip | 1 | WS2812 Compatible up to 30cm | £5.00 |
+| LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
 | Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
 
 Middle:
