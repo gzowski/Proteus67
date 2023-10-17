@@ -18,4 +18,4 @@ Parts:
 * Optional: LED strip (pins for GND/LED/VCC)
 
 Middle:
-![alt text](https://github.com/gzowski/Proteus67/blob/main/keyboard3d.png?raw=true)
+![alt text](https://github.com/gzowski/Proteus67/blob/main/Images/keyboard3d.png?raw=true)
