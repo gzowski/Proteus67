@@ -5,7 +5,7 @@ as{
     "maintainer": "gzowski",
     "usb": {
         "vid": "0x466C",
-        "pid": "0x6331",
+        "pid": "0x6579",
         "device_version": "1.0.0"
     },
     "diode_direction": "COL2ROW",
