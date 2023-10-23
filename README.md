@@ -6,12 +6,12 @@
 * Single PCB and microcontroller design while retaining the feel of a split board.
 * 133mm finger spacing while hands are at home positions (F/J keys) 
 
-PCB and Top Plate: (Pricing based on JLCPCB 5x production run, pre-shipping)
+PCB and Top Plate:
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
-| PCB Top Plate | 1 | Top plate to mount MX switches onto | £15.00 |
-| PCB Middle Plate | 1 | PCB with all solder points | £15.00 |
+| PCB Top Plate | 1 | Top plate to mount MX switches onto | Depends on service |
+| PCB Middle Plate | 1 | PCB with all solder points | Depends on service |
 
 Components: (Pricing based on UK sellers)
 
