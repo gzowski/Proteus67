@@ -33,7 +33,9 @@ Optional Parts:
 | Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
 | 3D printed case | 1 | Model in 3D printed case, STL/gcode | - |
 
-Middle:
-![alt text](https://github.com/gzowski/Proteus67/blob/main/Images/keyboard3d.png?raw=true)
+PCB + Top Plate:
+![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
+PCB:
+![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/PCB.png?raw=true)
 
 
