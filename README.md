@@ -31,6 +31,7 @@ Optional Parts:
 | :-------- | :------- | :------------------------- |:-|
 | LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
 | Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
+| 3D printed case | 1 | Model in 3D printed case, STL/gcode | - |
 
 Middle:
 ![alt text](https://github.com/gzowski/Proteus67/blob/main/Images/keyboard3d.png?raw=true)
