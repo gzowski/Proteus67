@@ -4,7 +4,7 @@
 * 33 keys per side and rotary encoder in the middle.
 * Additional column positioned each side down the centre.
 * Single PCB and microcontroller design while retaining the feel of a split board.
-* 133mm finger spacing while hands are at home positions (F/J keys) 
+* 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
 
 PCB and Top Plate:
 
