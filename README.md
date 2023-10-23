@@ -6,14 +6,13 @@
 * Single PCB and microcontroller design while retaining the feel of a split board.
 * 133mm finger spacing while hands are at home positions (F/J keys) 
 
-Case / PCB: (Pricing based on JLCPCB 5x production run, pre-postage)
+PCB and Top Plate: (Pricing based on JLCPCB 5x production run, pre-shipping)
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
 | PCB Top Plate | 1 | Top plate to mount MX switches onto | £15.00 |
 | PCB Middle Plate | 1 | PCB with all solder points | £15.00 |
-| PCB Base Plate | 1 | Bottom of case, covers underside | £15.00 |
-  
+
 Components: (Pricing based on UK sellers)
 
 | Part | Quantity     | Description                | Cost |
@@ -32,6 +31,7 @@ Optional Parts:
 | LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
 | Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
 | 3D printed case | 1 | Model in 3D printed case, STL/gcode | - |
+| PCB Base Plate | 1 | Bottom of case, covers underside | £15.00 |
 
 PCB + Top Plate:
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
