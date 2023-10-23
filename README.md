@@ -29,7 +29,6 @@ Optional Parts:
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
 | LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
-| Acrylic plates | 1 | Top and bottom acrylic plates, laser cut 2mm | £20.00-£40.00 |
 | 3D printed case | 1 | Model in 3D printed case, STL/gcode | - |
 | PCB Base Plate | 1 | Bottom of case, covers underside | £15.00 |
 
