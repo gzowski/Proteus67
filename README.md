@@ -1,10 +1,13 @@
 # Proteus67 - Ortholinear mechanical keyboard
 
-* 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58.
-* 33 keys per side and rotary encoder in the middle.
+* 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58 and Planck
+* 33 keys per hand
+* 1 Rotary encoder in the middle
 * Additional column positioned each side down the centre.
 * Single PCB and microcontroller design while retaining the feel of a split board.
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
+
+![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 
 ## Parts (Required)
 
@@ -26,11 +29,6 @@
 | LED Strip | 1 | WS2812 Compatible (30cm) |
 | 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) |
 | PCB Base Plate | 1 | Bottom of case, covers underside |
-
-PCB + Top Plate:
-![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
-PCB:
-![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/PCB.png?raw=true)
 
 # Assembly Guide
 
