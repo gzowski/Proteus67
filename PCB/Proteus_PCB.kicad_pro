@@ -175,7 +175,9 @@
     "equivalence_files": []
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "Stencils"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
