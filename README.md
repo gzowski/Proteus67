@@ -29,7 +29,7 @@ Optional Parts:
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
 | LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
-| 3D printed case | 1 | [a Model in 3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) | - |
+| 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) | - |
 | PCB Base Plate | 1 | Bottom of case, covers underside | Depends on service |
 
 PCB + Top Plate:
