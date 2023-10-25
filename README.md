@@ -32,4 +32,11 @@
 
 # Assembly Guide
 
+* Place both stabalizers into the top plate
+* Insert all switches into the top plate and put to the side
+* Diode installation: Choose which side you want the diodes on, they can be fitted either side. (Personal preference on the rear)
+** SMD mounting: Use smaller diode points marked below, ensure diodes are facing the correct orientation
+** Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orrientation.
+*** Snip additional length off legs on opersite side.
+
 
