@@ -2,10 +2,10 @@
 
 * 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58 and Planck
 * 33 keys per hand
-* 1 Rotary encoder in the middle
-* Additional column positioned each side down the centre.
+* 1 Rotary encoder in the middle (Green)
+* Additional column positioned each side down the centre. (Orange)
 * Single microcontroller design while retaining characteristics of a split layout
-* 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
+* 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 
