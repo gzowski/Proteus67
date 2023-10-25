@@ -6,7 +6,7 @@
 * Single PCB and microcontroller design while retaining the feel of a split board.
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
 
-## Parts
+## Parts (Required)
 
 | Part | Quantity     | Description                | 
 | :-------- | :------- | :------------------------- |
@@ -20,7 +20,7 @@
 | Keycaps | 66 | 64x1u switches and 2x2u switches |
 | Stabalizers | 2 | 2u plate mounted |
 
-Optional Parts:
+## Parts (Optional):
 | Part | Quantity     | Description                |
 | :-------- | :------- | :------------------------- |
 | LED Strip | 1 | WS2812 Compatible (30cm) |
