@@ -30,7 +30,7 @@
 | 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) |
 | PCB Base Plate | 1 | Bottom of case, covers underside |
 
-### Assembly Guide
+## Assembly Guide
 
 * Place both stabalizers into the top plate
 * Insert all switches into the top plate and put to the side
