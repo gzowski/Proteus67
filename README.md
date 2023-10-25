@@ -10,8 +10,8 @@ PCB and Top Plate:
 
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
-| PCB Top Plate | 1 | Top plate to mount MX switches onto | Depends on service |
-| PCB Middle Plate | 1 | PCB with all solder points | Depends on service |
+| PCB Top Plate | 1 | Top plate for mounting MX switches | - |
+| PCB Middle Plate | 1 | PCB with all solder points | - |
 
 Components: (Pricing based on UK sellers)
 
@@ -29,12 +29,14 @@ Optional Parts:
 | Part | Quantity     | Description                | Cost |
 | :-------- | :------- | :------------------------- |:-|
 | LED Strip | 1 | WS2812 Compatible (30cm) | £5.00 |
-| 3D printed case | 1 | Model in 3D printed case, STL/gcode | - |
+| 3D printed case | 1 | [a Model in 3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) | - |
 | PCB Base Plate | 1 | Bottom of case, covers underside | Depends on service |
 
 PCB + Top Plate:
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 PCB:
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/PCB.png?raw=true)
+
+# Assembly Guide
 
 
