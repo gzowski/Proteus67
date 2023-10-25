@@ -6,16 +6,12 @@
 * Single PCB and microcontroller design while retaining the feel of a split board.
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
 
-PCB and Top Plate:
+## Parts
 
 | Part | Quantity     | Description                | 
 | :-------- | :------- | :------------------------- |
 | PCB Top Plate | 1 | Top plate for mounting MX switches |
 | PCB Middle Plate | 1 | PCB with all solder points |
-
-Components: (Pricing based on UK sellers)
-
-| Part | Quantity     | Description                | 
 | :-------- | :------- | :------------------------- |
 | Diodes| 67  | Through-hole 1N4148 or SMD 1N4148W |
 | Microcontroller | 1 | 24 IO Pins required, Elite-C/Elite-Pi/Frood or similar |
