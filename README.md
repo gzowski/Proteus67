@@ -12,7 +12,7 @@
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 
-### Parts
+## Parts
 
 | Part | Quantity     | Description                | 
 | :-------- | :------- | :------------------------- |
@@ -26,7 +26,7 @@
 | Keycaps | 66 | 64x1u switches and 2x2u switches |
 | Stabalizers | 2 | 2u plate mounted |
 
-### Parts (Optional):
+(Optional):
 | Part | Quantity     | Description                |
 | :-------- | :------- | :------------------------- |
 | LED Strip | 1 | WS2812 Compatible (30cm) |
