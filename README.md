@@ -7,8 +7,8 @@
 * Single microcontroller design while retaining characteristics of a split layout
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
 
-- [Parts](#Parts)
-- [Assembly Guide](#Assembly%20Guide)
+### [Parts](#Parts)
+### [Assembly Guide](#Assembly-Guide)
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 
