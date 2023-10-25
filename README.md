@@ -4,7 +4,7 @@
 * 33 keys per hand
 * 1 Rotary encoder in the middle
 * Additional column positioned each side down the centre.
-* Single PCB and microcontroller design while retaining the feel of a split board.
+* Single microcontroller design while retaining characteristics of a split layout
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout.
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
