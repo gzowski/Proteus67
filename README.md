@@ -36,9 +36,16 @@
 
 * Place both stabalizers into the top plate
 * Insert all switches into the top plate and put to the side
-* Diode installation: Choose which side you want the diodes on, they can be fitted either side. (Personal preference on the rear)
+* Diode installation: Must be on the rear of the board due to lack of clearance from stabalisers.
   * SMD mounting: Use smaller diode points marked below, ensure diodes are facing the correct orientation
   * Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orrientation.
-    * Snip additional length off legs on opersite side.
+    * Snip off excess on top side.
+* Reset switch: snip off legs before positioning on board.
+  *  Place switch on top side of PCB and solder from underside
+* Microcontroller needs to be positioned with the top of the board facing upwards (Test controller beforehand and flash firmware using QMK)
+* Place the rotary encoder on the top side and solder all points ensuring it stays flush to the board.
+* Press down the top plate with switches and stabalisers down on the middle plate ensuring that all the switches sit flush against the middle plate.
+* Turn board over and proceed to solder switches
+
 
 
