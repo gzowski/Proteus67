@@ -9,7 +9,7 @@
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
 
-## Parts (Required)
+### Parts (Required)
 
 | Part | Quantity     | Description                | 
 | :-------- | :------- | :------------------------- |
@@ -23,20 +23,20 @@
 | Keycaps | 66 | 64x1u switches and 2x2u switches |
 | Stabalizers | 2 | 2u plate mounted |
 
-## Parts (Optional):
+### Parts (Optional):
 | Part | Quantity     | Description                |
 | :-------- | :------- | :------------------------- |
 | LED Strip | 1 | WS2812 Compatible (30cm) |
 | 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) |
 | PCB Base Plate | 1 | Bottom of case, covers underside |
 
-# Assembly Guide
+### Assembly Guide
 
 * Place both stabalizers into the top plate
 * Insert all switches into the top plate and put to the side
 * Diode installation: Choose which side you want the diodes on, they can be fitted either side. (Personal preference on the rear)
-** SMD mounting: Use smaller diode points marked below, ensure diodes are facing the correct orientation
-** Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orrientation.
-*** Snip additional length off legs on opersite side.
+  * SMD mounting: Use smaller diode points marked below, ensure diodes are facing the correct orientation
+  * Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orrientation.
+    * Snip additional length off legs on opersite side.
 
 
