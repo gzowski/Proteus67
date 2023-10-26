@@ -1,17 +1,48 @@
-as{
+{
     "keyboard_name": "Proteus67",
     "manufacturer": "gzowski",
     "url": "https://github.com/gzowski",
     "maintainer": "gzowski",
     "usb": {
-        "vid": "0x466C",
-        "pid": "0x6579",
+        "vid": "0x7072",
+        "pid": "0x6F64",
         "device_version": "1.0.0"
     },
     "diode_direction": "COL2ROW",
     "matrix_pins": {
- 	"cols": ["D1", "D0", "D4", "C6", "D7", "E6", "B4", "F4", "F5", "F6", "F7", "B1", "B3", "B2"],
+        "cols": ["D1", "D0", "D4", "C6", "D7", "E6", "B4", "F4", "F5", "F6", "F7", "B1", "B3", "B2"],
         "rows": ["B7", "D5", "C7", "F1", "F0"]
+    },
+    "features": {
+	"encoder": true
+    },
+    "encoder": {
+	"enabled": true,
+	"rotary": [
+		{"pin_a": "B5", "pin_b": "B6", "resolution": 4}
+    	]
+    },
+    "ws2812": {
+        "pin": "D3"
+    },
+    "rgblight": {
+        "saturation_steps": 8,
+        "brightness_steps": 8,
+        "led_count": 12,
+        "max_brightness": 50,
+        "sleep": true,
+        "animations": {
+            "breathing": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true,
+            "snake": true,
+            "knight": true,
+            "christmas": true,
+            "static_gradient": true,
+            "rgb_test": false,
+            "alternating": true,
+            "twinkle": true
+        }
     },
     "processor": "atmega32u4",
     "bootloader": "caterina",

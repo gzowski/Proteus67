@@ -19,15 +19,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 #define AUTO_SHIFT_TIMEOUT 300
-#define ENCODERS_PAD_A {B5}
-#define ENCODERS_PAD_B {B6}
 #define ENCODER_DIRECTION_FLIP
-#define ENCODER_RESOLUTION 4
 #define ENCODER_MAP_KEY_DELAY 10
-#define RGBLED_NUM 12
-#define RGBLIGHT_HUE_STEP 8
-#define RGBLIGHT_SAT_STEP 17
-#define RGBLIGHT_CAL_STEP 17
-#define RGBLIGHT_LIMIT_VAL 255
-#define RGBLIGHT_MODE_RAINBOW_MOOD 1
-#define WS2812_DI_PIN {D3}
+#define ENCODER_DEFAULT_POS 0x3
+#define RGBLIGHT_DEFAULT_MODE RGBLIGHT_MODE_RAINBOW_MOOD + 2
+#define RGB_DISABLE_TIMEOUT 900000 // milliseconds
+#define RGB_DISABLE_WHEN_USB_SUSPENDED 1
