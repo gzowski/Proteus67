@@ -1,4 +1,4 @@
-# proteus67
+# Proteus67
 
 ![proteus67](https://i.imgur.com/mYhl7Ja.png)
 
