@@ -6,6 +6,7 @@
 * Additional column positioned each side down the centre. (Orange)
 * Single microcontroller design while retaining characteristics of a split layout
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
+* More to add...
 
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
