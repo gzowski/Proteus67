@@ -1,0 +1,10 @@
+MOUSEKEY_ENABLE = yes       # Mouse keys
+EXTRAKEY_ENABLE = yes       # Audio control and System control
+COMMAND_ENABLE = yes        # Commands for debug and configuration
+NKRO_ENABLE = yes            # Enable N-Key Rollover
+VIA_ENABLE = yes
+AUTO_SHIFT_ENABLE = no
+ENCODER_MAP_ENABLE = yes
+RGBLIGHT_ENABLE = yes
+PIN_COMPATIBLE = elite_c
+CONVERT_TO = elite_pi
