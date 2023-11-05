@@ -8,6 +8,8 @@
 * 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
 * More to add...
 
+* Known Issue: Silkscreen (cosmetic) for K00 and K01 incorrect named K01, K02. (Key placements)
+
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
