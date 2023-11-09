@@ -8,21 +8,22 @@
 * Hardware Supported: Elite-C, Elite-Pi or equivilent Pro-Micro with additional I/O along bottom.
 * Build Guide: [Proteus67](https://github.com/gzowski/Proteus67)
 
-Make example for this keyboard (after setting up your build environment):
+Generate firmware:
 
-    make proteus67:default
+Default firmware:
+qmk flash --kb proteus67 --km default
 
-Flashing example for this keyboard:
+VIA supported firmware:
+qmk flash --kb proteus67 --km via
 
-    make proteus67:default:flash
+* Not curently listed within VIA, requires design json from [here](https://github.com/gzowski/Proteus67/blob/main/QMK%20Firmware/via.json)
+* Enable design mode on [usevia.app](https://usevia.app/settings) and Load Draft definition within the design tab
+* Choose the json file linked above.
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
 ## Bootloader
 
-Enter the bootloader in 3 ways:
-
 * **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
-
+* **Physical reset button**: Briefly press the button on the back of the PCB, if using a RP2040 press repeatidly to enter boot mode.
+* **Hold down boot loader button on MCU** Hold down the boot loader button on the MCU while plugging in the keyboard

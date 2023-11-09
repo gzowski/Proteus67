@@ -47,11 +47,11 @@ const uint8_t RGBLED_RAINBOW_MOOD_INTERVALS[] PROGMEM = {50, 20, 10};
 
 // MO(_ADJUST)
 const rgblight_segment_t PROGMEM backlight_layer_adjust[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 4, HSV_RED}
+    {0, 4, HSV_CYAN}
 );
 // MO(_RAISE)
 const rgblight_segment_t PROGMEM backlight_layer_raise[] = RGBLIGHT_LAYER_SEGMENTS(
-    {0, 4, HSV_BLUE}
+    {0, 4, HSV_PURPLE}
 );
 
 const rgblight_segment_t* const PROGMEM set_backlight_mode[] = RGBLIGHT_LAYERS_LIST(
