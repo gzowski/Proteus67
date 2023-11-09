@@ -5,15 +5,15 @@
 * 1 Rotary encoder in the middle (Green)
 * Additional column positioned each side down the centre. (Orange)
 * Single microcontroller design while retaining characteristics of a split layout
-* 133mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
-* More to add...
+* 130mm finger spacing while hands are at home positions (F/J keys) in a QWERTY layout. (Blue)
 
-* Known Issue: Silkscreen (cosmetic) for K00 and K01 incorrect named K01, K02. (Key placements)
+* As there is no base plate by default, I've provided PCB files and laser cutting stencils which can be fabricated, if mounting on a plate you'll also require M2 standoff's and screws.
+* There is also a 3D printed case STL which fits the keyboard with the PCB resting on printed supports within the case, mounting screws not required.
 
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
 ![PCB](https://github.com/gzowski/Proteus67/blob/main/Images/TopPlate.png?raw=true)
-
+![Personal build](https://github.com/gzowski/Proteus67/blob/main/Images/built.jpg?raw=true)
 ## Parts
 
 | Part | Quantity     | Description                | 
@@ -48,7 +48,5 @@
 * Microcontroller needs to be positioned with the top of the board facing upwards (Test controller beforehand and flash firmware using QMK)
 * Place the rotary encoder on the top side and solder all points ensuring it stays flush to the board.
 * Press down the top plate with switches and stabalisers down on the middle plate ensuring that all the switches sit flush against the middle plate.
-* Turn board over and proceed to solder switches
-
-
-
+* Turn board over and proceed to solder switches to the board
+* Connect USB to keyboard and check all keys are functional, this is assuming you've already flashed the firmware to the MCU.
