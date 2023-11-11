@@ -1,4 +1,4 @@
-b# Proteus67 - Ortholinear mechanical keyboard
+# Proteus67 - Ortholinear mechanical keyboard
 
 * 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58 and Planck
 * 33 keys per hand
