@@ -32,7 +32,7 @@
 | Part | Quantity     | Description                |
 | :-------- | :------- | :------------------------- |
 | LED Strip | 1 | WS2812 Compatible (30cm) |
-| 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/3D%20printed%20case) |
+| 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/case) |
 | PCB Base Plate | 1 | Bottom of case, covers underside |
 
 ## Assembly Guide
