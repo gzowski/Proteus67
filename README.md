@@ -1,4 +1,4 @@
-# Proteus67 - Ortholinear mechanical keyboard
+b# Proteus67 - Ortholinear mechanical keyboard
 
 * 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58 and Planck
 * 33 keys per hand
@@ -27,6 +27,8 @@
 | MJTP1117 | 1 | Angled reset switch, (legs need cutting off) |
 | Keycaps | 66 | 64x1u switches and 2x2u switches |
 | Stabalizers | 2 | 2u plate mounted |
+
+All components can be purchased through [mechboards.co.uk](https://mechboards.co.uk)
 
 (Optional):
 | Part | Quantity     | Description                |
