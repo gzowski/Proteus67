@@ -21,7 +21,7 @@
 | PCB Top Plate | 1 | Top plate for mounting MX switches |
 | PCB Middle Plate | 1 | PCB with all solder points |
 | Diodes| 67  | Through-hole 1N4148 or SMD 1N4148W |
-| Microcontroller | 1 | 24 IO Pins required, Elite-C/Elite-Pi/Frood or similar |
+| Microcontroller | 1 | 24 IO Pins required Elite-Pi/Frood or similar RP2040 |
 | MX Switches | 66 | Cherry MX compatible switches |
 | EC11 | 1 | Rotary Encoder for centre |
 | MJTP1117 | 1 | Angled reset switch, (legs need cutting off) |
