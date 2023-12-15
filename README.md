@@ -40,9 +40,7 @@ All components can be purchased through [mechboards.co.uk](https://mechboards.co
 
 ## Assembly Guide
 
-* I have provided additional images within [Images](https://github.com/gzowski/Proteus67/blob/main/Images/help_images.jpg) which show assembly.
-
-  
+* I have provided additional images [here](https://github.com/gzowski/Proteus67/blob/main/Images/help_images.jpg) which show assembly.
 * Place both stabalizers into the top plate
 * Insert all switches into the top plate and put to the side
 * Diode installation: Must be on the rear of the board due to lack of clearance from stabalisers.
