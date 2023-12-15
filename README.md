@@ -36,14 +36,18 @@ All components can be purchased through [mechboards.co.uk](https://mechboards.co
 | LED Strip | 1 | WS2812 Compatible (30cm) |
 | 3D printed case | 1 | [3D printed case, STL/gcode](https://github.com/gzowski/Proteus67/tree/main/case) |
 | PCB Base Plate | 1 | Bottom of case, covers underside |
+| Base Plate Cutout | 1 | [STEP file of base plate outline which can be laser cut](https://github.com/gzowski/Proteus67/tree/main/case) |
 
 ## Assembly Guide
 
+* I have provided additional images within [Images](https://github.com/gzowski/Proteus67/blob/main/Images/help_images.jpg) which show assembly.
+
+  
 * Place both stabalizers into the top plate
 * Insert all switches into the top plate and put to the side
 * Diode installation: Must be on the rear of the board due to lack of clearance from stabalisers.
   * SMD mounting: Use smaller diode points marked below, ensure diodes are facing the correct orientation
-  * Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orrientation.
+  * Through-Hole mounting: Use the wider spacing through-holes, ensuring diodes are facing the correct orientation.
     * Snip off excess on top side.
 * Reset switch: snip off legs before positioning on board.
   *  Place switch on top side of PCB and solder from underside
