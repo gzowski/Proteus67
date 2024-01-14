@@ -11,7 +11,7 @@
 
 * As there is no base plate by default, I've provided PCB files and laser cutting stencils which can be fabricated, if mounting on a plate you'll also require M2 standoff's and screws.
 * There is also a 3D printed case STL which fits the keyboard with the PCB resting on printed supports within the case, mounting screws not required.
-* Firmware currently in a fork of QMK in branch Proteus67: https://github.com/gzowski/qmk_firmware/tree/Proteus67/keyboards/proteus67
+* Firmware now part of QMK official repo: https://github.com/qmk/qmk_firmware
    * If you need any assistance with building your firmware then please reach out.
 
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
