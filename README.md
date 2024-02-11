@@ -13,6 +13,7 @@
 * There is also a 3D printed case STL which fits the keyboard with the PCB resting on printed supports within the case, mounting screws not required.
 * Firmware now part of QMK official repo: https://github.com/qmk/qmk_firmware
    * If you need any assistance with building your firmware then please reach out.
+* Fully supported with VIA when flashed with VIA keymap: https://usevia.app/
 
 ### [Parts](#Parts) || [Assembly Guide](#Assembly-Guide)
 
