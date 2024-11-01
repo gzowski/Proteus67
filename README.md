@@ -1,7 +1,5 @@
 # Proteus67 - Ortholinear mechanical keyboard
 
-* Available to purchase from: https://www.etsy.com/uk/shop/PhoenixCustomBoards
-
 * 67 Key ortholinear design, inspiration taken from the split design of the Sofle/Lily58 and Planck
 * 33 keys per hand
 * 1 Rotary encoder in the middle (Green)
